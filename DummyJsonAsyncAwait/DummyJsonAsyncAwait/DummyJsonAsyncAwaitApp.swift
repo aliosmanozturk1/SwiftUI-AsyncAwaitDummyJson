@@ -11,7 +11,7 @@ import SwiftUI
 struct DummyJsonAsyncAwaitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProductView()
         }
     }
 }
